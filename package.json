@@ -1,0 +1,40 @@
+{
+  "name": "smsgatewayhub",
+  "version": "1.0.0",
+  "description": "Official SMSGatewayHub SDK for Node.js: classic SMS API, CPaaS unified messaging (WhatsApp, SMS, RCS, Email with fallback), OneTap Verify and Email Verification. Zero dependencies.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md",
+    "examples/"
+  ],
+  "engines": {
+    "node": ">=14"
+  },
+  "keywords": [
+    "sms",
+    "whatsapp",
+    "rcs",
+    "email",
+    "cpaas",
+    "otp",
+    "onetap-verify",
+    "email-verification",
+    "smsgatewayhub"
+  ],
+  "author": "SMS Gateway Hub <support@smsgatewayhub.com>",
+  "license": "MIT",
+  "homepage": "https://www.smsgatewayhub.com/sdks",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smsgatewayhub91/smsgatewayhub-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/smsgatewayhub91/smsgatewayhub-node/issues",
+    "email": "support@smsgatewayhub.com"
+  }
+}
